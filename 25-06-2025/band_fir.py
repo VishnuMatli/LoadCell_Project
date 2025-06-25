@@ -1,6 +1,3 @@
-# File: band_fir.py
-# FINAL version: Saves analysis for each file to a corresponding output file.
-
 import socket
 import matplotlib.pyplot as plt
 import numpy as np
