@@ -1,0 +1,3 @@
+Analysis for file: 535g20250502pm427ms20hz97.txt
+Raw Data Peak-to-Peak Amplitude: 23.9074
+Filtered Data Peak-to-Peak Amplitude: 21.9575

@@ -1,0 +1,5 @@
+Analysis for file: 535g20250502pm427ms20hz88.txt
+Analysis timestamp: 2025-06-28 10:34:00
+------------------------------
+Raw Data Peak-to-Peak Amplitude: 76.8206
+Filtered Data Peak-to-Peak Amplitude: 76.5561
