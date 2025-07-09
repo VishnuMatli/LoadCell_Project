@@ -1,0 +1,5 @@
+Analysis for file: teraterm0Hz_July72025.txt
+Analysis timestamp: 2025-07-09 15:30:16
+------------------------------
+Raw Data Peak-to-Peak Amplitude: 20.3203
+Filtered Data Peak-to-Peak Amplitude: 14.4725
